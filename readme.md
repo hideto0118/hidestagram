@@ -1,6 +1,7 @@
-# Learn Redux
+# Hidestagram
 
-A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
+Instagram looking app with React and Redux made with following [a tutorial from wesbos](https://learnredux.com).
+
 
 ## Running
 
